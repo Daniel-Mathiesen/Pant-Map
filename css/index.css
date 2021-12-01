@@ -95,6 +95,11 @@ video {
   width: 180px;
 }
 
+header h3 {
+  text-align: center;
+  font-size: 25px;
+}
+
 .main__container {
   display: flex;
   justify-content: space-around;
@@ -323,4 +328,11 @@ video {
 }
 .settings__main .slider.round:before {
   border-radius: 50%;
+}
+
+.content_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
 }
