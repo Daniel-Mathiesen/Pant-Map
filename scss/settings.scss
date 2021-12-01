@@ -3,29 +3,21 @@
     flex-direction: column;
     align-items: center;
     height: 90vh;
-    -webkit-transition: .4s;
-        transition: .4s;
-
+    
     .title__card{
         width: 100vw;
         height: 15%;
         margin-top: 10%;
-        -webkit-transition: .4s;
-        transition: .4s;
     }
 
     .title__h1{
         display: flex;
         justify-content: space-around;
-        -webkit-transition: .4s;
-        transition: .4s;
     }
 
     .title__h2{
         display: flex;
         justify-content: space-around;
-        -webkit-transition: .4s;
-        transition: .4s;
     }
 
     .toggleables{
@@ -35,8 +27,7 @@
         height: 50%;
         margin: 5%;
         border-radius: 5%;
-        -webkit-transition: .4s;
-        transition: .4s;
+
         
         .toggleable{
             display: flex;
@@ -155,5 +146,6 @@
       .slider.round:before {
         border-radius: 50%;
       }
-}
 
+    }
+    
