@@ -1,2 +1,7 @@
 # Pant-Map
-A personal used map for finding pant
+
+# A personaly used map for finding pant
+
+---
+
+- This is open source, if you have anything feel free to send it
